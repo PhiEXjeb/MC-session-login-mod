@@ -1,7 +1,3 @@
-# Minecraft-Session-Login
-a simple mod that allows you to login to minecraft accounts using your session id instead of regular login
+Mod i made becuz i have alot of mc accounts. i use this to login with session ids.
 
-
-to open the interface, run the /session command ingame. all fields should be self explanatory
-
-Due to my lack of understanding stuff, there is no support yet for public keys, meaning this mod wont work for servers > 1.19.2 that have secure profiles enabled
+when you go to the multiplayer menu it will show the username of ur current id, or it will show offline if you are a pirate. it wil also have a little button to add a new id. click that and it will open a menu with a box for you to enter the id. it will freeze for a second, login and show the name. or crash the game if the session id is bad, i refuse to fix it!
